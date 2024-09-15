@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, NextJS, Go, Cyber Security**
 
-- 💬 Ask me about **java, kotlin, python, javascript**
+- 💬 Ask me about **Java, Kotlin, Pythin, and Javascript**
 
 - 📫 How to reach me **renaldlie@gmail.com**
 
